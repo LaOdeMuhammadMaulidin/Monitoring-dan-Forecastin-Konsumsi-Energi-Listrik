@@ -13,6 +13,8 @@ Forecasting Konsumsi: Menggunakan model Machine Learning (LSTM) untuk memprediks
 Manfaat sistem ini antara lain meningkatkan efisiensi penggunaan listrik, membantu perencanaan beban, mengurangi biaya operasional, dan mendukung pengelolaan energi.
 
 
-![Alat Monitoring](![WhatsApp Image 2025-06-26 at 02 32 35_c12b4cb0](https://github.com/user-attachments/assets/029a121e-c9e5-42b9-a596-93655e93df73)
+![Alat Monitoring](https://github.com/user-attachments/assets/029a121e-c9e5-42b9-a596-93655e93df73)
+![Dashboard Monitoring](<img width="1919" height="980" alt="Screenshot 2025-05-18 000533" src="https://github.com/user-attachments/assets/b2849332-0e82-4846-88c2-bac55d420aa2" />
+)
 
 
