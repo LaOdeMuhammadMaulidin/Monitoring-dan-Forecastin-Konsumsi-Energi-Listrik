@@ -1,6 +1,6 @@
 # Monitoring-dan-Forecastin-Konsumsi-Energi-Listrik
 
-##Sistem Monitoring dan Forecasting Konsumsi Energi Listrik adalah perangkat berbasis IoT yang dirancang untuk memantau penggunaan energi listrik secara real-time sekaligus memprediksi konsumsi di masa mendatang. Sistem ini mengintegrasikan sensor PZEM 004T yang mengukur parameter tegangan, arus, daya, faktor daya, dan energi dengan mikrokontroler ESP32 yang mengirimkan data ke google spreadsheet sebagai penyimpanan dan ke thingsboard sebagai Monitoring real time
+Sistem Monitoring dan Forecasting Konsumsi Energi Listrik adalah perangkat berbasis IoT yang dirancang untuk memantau penggunaan energi listrik secara real-time sekaligus memprediksi konsumsi di masa mendatang. Sistem ini mengintegrasikan sensor PZEM 004T yang mengukur parameter tegangan, arus, daya, faktor daya, dan energi dengan mikrokontroler ESP32 yang mengirimkan data ke google spreadsheet sebagai penyimpanan dan ke thingsboard sebagai Monitoring real time
 
 Fitur utama meliputi:
 
