@@ -14,7 +14,7 @@ Manfaat sistem ini antara lain meningkatkan efisiensi penggunaan listrik, memban
 
 
 ![Alat Monitoring](https://github.com/user-attachments/assets/029a121e-c9e5-42b9-a596-93655e93df73)
-![Dashboard Monitoring](//github.com/user-attachments/assets/80780e9b-c249-48c6-8eea-2c0c828d14a1)
+
 
 
 
