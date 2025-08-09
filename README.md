@@ -11,3 +11,8 @@ Pencatatan Historis: Menyimpan data konsumsi untuk analisis pola penggunaan ener
 Forecasting Konsumsi: Menggunakan model Machine Learning (LSTM) untuk memprediksi konsumsi listrik harian dan dikirim ke thingsboard
 
 Manfaat sistem ini antara lain meningkatkan efisiensi penggunaan listrik, membantu perencanaan beban, mengurangi biaya operasional, dan mendukung pengelolaan energi.
+
+
+![Alat Monitoring](![WhatsApp Image 2025-06-26 at 02 32 35_c12b4cb0](https://github.com/user-attachments/assets/029a121e-c9e5-42b9-a596-93655e93df73)
+
+
